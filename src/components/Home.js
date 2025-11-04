@@ -8,5 +8,5 @@ function Home() {
     </div>
   );
 }
-
+ 
 export default Home;
