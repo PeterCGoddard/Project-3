@@ -7,4 +7,6 @@ In Contact Form, user can input first name, last name, email, and comments.
 
 Technologies: React, .js, .css, github
 
-Ideas for Future Improvement: Add colored backgrounds, add print option for Todo List, add donations page. 
+Ideas for Future Improvement: Add colored backgrounds, add print option for Todo List, add donations page.
+
+GitHub Link: https://petercgoddard.github.io/Project-3
