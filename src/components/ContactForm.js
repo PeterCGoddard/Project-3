@@ -12,7 +12,7 @@ function ContactForm() {
     alert(`Message sent from ${formData.name} at ${formData.email}!`);
     setFormData({ name: '', email: '', message: '' });
   };
-
+ 
   return (
     <div>
       <h2>Contact Form</h2>
